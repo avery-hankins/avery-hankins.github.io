@@ -1,7 +1,7 @@
 ---
 title: The Monospace Web
 subtitle: A minimalist design exploration
-date: 2024-12-XX
+date: 2024-12-22
 lang: en
 toc-title: Contents
 ---
