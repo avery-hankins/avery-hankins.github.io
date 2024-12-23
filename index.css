@@ -186,7 +186,7 @@ p {
 
 img, video {
   display: block;
-  width: 100%;
+  /*width: 100%;*/
   object-fit: contain;
   overflow: hidden;
 }
@@ -454,4 +454,10 @@ label input {
 
 .debug-toggle-label {
   text-align: right;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
